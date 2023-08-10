@@ -103,7 +103,7 @@ system_packages = [
     "grpcio",
     "grpcio-status",
     "gspread",
-    "guess-language-spirit",
+    "guess_language-spirit",
     "h11",
     "httpcore",
     "httplib2",

@@ -112,7 +112,7 @@ install_requires = [
     "grpcio==1.56.2",
     "grpcio-status==1.56.2",
     "gspread==5.10.0",
-    "guess-language-spirit==0.5.3",
+    "guess_language-spirit==0.5.3",
     "h11==0.14.0",
     "httpcore==0.17.3",
     "httplib2==0.22.0",

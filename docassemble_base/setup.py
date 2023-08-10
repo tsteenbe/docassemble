@@ -116,7 +116,7 @@ install_requires = [
     "greenlet==2.0.2",
     "grpcio==1.56.2",
     "grpcio-status==1.56.2",
-    "guess-language-spirit==0.5.3",
+    "guess_language-spirit==0.5.3",
     "httplib2==0.22.0",
     "Hyphenate==1.1.0",
     "idna==3.4",
